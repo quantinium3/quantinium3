@@ -1,4 +1,6 @@
-## Hi there 👋
+## quantinium
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=alcivd1065ibqww5vo9hemnus&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=alcivd1065ibqww5vo9hemnus&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 <!--
 **quantinium03/quantinium03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
