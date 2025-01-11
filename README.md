@@ -1,10 +1,8 @@
 ## quantinium
 
-<h2 align="center">playing & recent</h2>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=alcivd1065ibqww5vo9hemnus&cover_image=true&theme=novatorem&show_offline=true&background_color=db0000&interchange=false&bar_color=379334&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=alcivd1065ibqww5vo9hemnus&cover_image=true&theme=novatorem&show_offline=true&background_color=db0000&interchange=true&bar_color=379334&bar_color_cover=true" />
   </a>
 </p>
 <!--
