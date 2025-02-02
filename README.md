@@ -1,9 +1,12 @@
 # I'm **quantinium**
-- Uni student trying to teach computers.
-- Terminal dweller and daily NixOS driver.
-- I love programming and try to tinker and learn new things everyday.
+
+-   Uni student trying to teach computers.
+-   Terminal dweller and daily NixOS driver.
+-   I love programming and try to tinker and learn new things everyday.
 
 ## Tech Stack
+
+```{=html}
 <div style="display: flex; flex-wrap: wrap; gap: 1.5em; align-items: center; line-height: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px;" alt="C++ Logo" />
 <img 
@@ -32,11 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="width: 50px;" alt="digital ocean" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width: 50px;" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width: 50px;" alt="redis" />
+
 </div>
-
+```
 ## Links
-- [GitHub](https://github.com/quantinium03)
-- [Personal Website](https://quantinium.dev)
-- [Notes](https://notes.quantinium.dev)
-- [𝕏](https://x.com/quantinium_dev)
 
+-   [X](https://x.com/quantinium_dev)
+-   [GitHub](https://github.com/quantinium03)
+-   [Personal Website](https://quantinium.dev)
