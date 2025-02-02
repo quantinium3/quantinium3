@@ -1,19 +1,13 @@
 # I'm **quantinium**
 
--   Uni student trying to teach computers.
--   Terminal dweller and daily NixOS driver.
--   I love programming and try to tinker and learn new things everyday.
+- Uni student trying to teach computers.
+- Terminal dweller and daily NixOS driver.
+- I love programming and try to tinker and learn new things everyday.
 
 ## Tech Stack
-
-```{=html}
 <div style="display: flex; flex-wrap: wrap; gap: 1.5em; align-items: center; line-height: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px;" alt="C++ Logo" />
-<img 
-  src="https://www.rust-lang.org/logos/rust-logo-256x256.png"
-  style="width: 50px;" 
-  alt="Rust Logo"
-/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" style="width: 50px;" alt="Rust Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px;" alt="Python Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width: 50px;" alt="C Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" style="width: 50px;" alt="NixOS Logo" />
@@ -35,11 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="width: 50px;" alt="digital ocean" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="width: 50px;" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width: 50px;" alt="redis" />
-
 </div>
-```
-## Links
 
--   [X](https://x.com/quantinium_dev)
--   [GitHub](https://github.com/quantinium03)
--   [Personal Website](https://quantinium.dev)
+## Links
+- [X](https://x.com/quantinium_dev)
+- [GitHub](https://github.com/quantinium03)
+- [Personal Website](https://quantinium.dev)
