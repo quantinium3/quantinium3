@@ -1,21 +1,37 @@
-## quantinium
+# I'm **quantinium**
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=alcivd1065ibqww5vo9hemnus&cover_image=true&theme=novatorem&show_offline=true&background_color=db0000&interchange=true&bar_color=379334&bar_color_cover=true" />
-  </a>
-</p>
-<!--
-**quantinium03/quantinium03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Uni student trying to teach computers.
+- Terminal dweller and daily NixOS driver.
+- I love programming and try to tinker and learn new things everyday.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-wrap: wrap; gap: 1.5em; align-items: center; line-height: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px;" alt="C++ Logo" />
+<img 
+  src="https://www.rust-lang.org/logos/rust-logo-256x256.png"
+  style="width: 50px;" 
+  alt="Rust Logo"
+/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px;" alt="Python Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width: 50px;" alt="C Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" style="width: 50px;" alt="NixOS Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width: 50px;" alt="Docker Logo" />
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" style="width: 50px; color:white;" alt="Express Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="width: 50px;" alt="NodeJS Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="width: 50px;" alt="Go Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 50px;" alt="Java Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px;" alt="JavaScript Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px;" alt="TypeScript Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" style="width: 50px;" alt="Neovim Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width: 50px;" alt="Next.js Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width: 50px;" alt="PostgreSQL Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px;" alt="React Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width: 50px;" alt="SQLite Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 50px;" alt="TailwindCSS Logo" />
+</div>
+
+## Links
+- [X](https://x.com/quantinium_dev)
+- [GitHub](https://github.com/quantinium03)
+- [Personal Website](https://quantinium.dev)
