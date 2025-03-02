@@ -1,6 +1,6 @@
 # I'm **quantinium**
 
-- Uni student trying to teach computers.
+- Uni student trying to teach computers. sometimes they listen
 - Terminal dweller and daily NixOS driver.
 - I love programming and try to tinker and learn new things everyday.
 
