@@ -1,5 +1,5 @@
 # quantinium
-- [x](https://x.com/quantinium3)- [http://](https://quantinium.dev)
+- [x](https://x.com/quantinium3) - [http://](https://quantinium.dev)
 - langs - js/ts, c++, py, rust, go, nix
 
 ### some projects
